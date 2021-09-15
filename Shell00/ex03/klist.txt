@@ -1,0 +1,6 @@
+Credentials cache: API:2D6C81ED-4B32-4496-9E51-4C45855D862E
+        Principal: aappleto@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep  8 11:28:26 2021  Sep  8 21:28:26 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Sep  8 11:28:28 2021  Sep  8 21:28:26 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
